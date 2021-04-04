@@ -11,3 +11,5 @@ TO DO LIST에 새로운 [할 일]을 추가할 수 있다.
 HTML을 사용하여 만들고자 하는 <to do list>의 기본적인 구조를 설계하였고, CSS를 사용하여 설계 작업에 작성했던 화면설계서처럼 크기, 색상, 디자인 등 시각적인 부분을 보완했다. 마지막으로 JAVASCRIPT를 사용하여 <to do list>에 새로운 [할 일]을 추가하는 기능을 구현했다.
 
 #결과 이미지
+
+![image](https://user-images.githubusercontent.com/81136546/113501653-dbfba300-9561-11eb-8d2d-9b520e0f6d3e.png)
