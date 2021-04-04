@@ -1,0 +1,11 @@
+var button = document.getElementById('button');//변수 buttond을 html의 button과 연결하여 생성
+var input = document.getElementById('input');//변수 input을 html의 input과 연결하여 생성
+var list = document.getElementById('list');//변수 list을 html의 list과 연결하여 생성
+
+button.addEventListener('click', clickButton);//변수 button을 함수 clickButton에 연결
+
+function clickButton(){
+  var temp = document.createElement('li');//li요소를 만들어 반환
+  temp.innerHTML = input.value;//input에 값 넣기
+  list.appendChild(temp);//변수내용을 추가
+}
